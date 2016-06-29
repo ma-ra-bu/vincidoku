@@ -1,0 +1,23 @@
+
+.inpNum {
+  /*
+  width: 25px;
+  hight: 25px;
+  */
+  min-width: 20px;
+  max-width: 80%;
+  width: 100%;
+  text-align: center;
+}
+
+.myframe {
+  width: 100%;
+  hight: 100%;
+  background-color: lightblue;
+}
+
+mytalbe {
+  table-layout:fixed;
+  width: 100%;
+  hight: 100%;
+}
